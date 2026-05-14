@@ -44,86 +44,12 @@ module.exports = [
             link: "/wiki/frame/",
         },
         {
-            text: "Web应用漏洞",
-            link: "/wiki/webapp/",
-        },
-        {
-            text: "网络设备漏洞",
-            link: "/wiki/iot/",
-        },
-        {
             text: "OA产品漏洞",
             link: "/wiki/oa/",
         },
         {
             text: "CMS漏洞",
             link: "/wiki/cms/",
-        },
-      ],
-    },
-    {
-      text: 'CTF',
-      items: [
-        {
-            text: "Misc",
-            link: "/ctf/misc/",
-        },
-        {
-            text: "Web",
-            link: "/ctf/web/",
-        },
-        {
-            text: "Pwn",
-            link: "/ctf/pwn/",
-        },
-        {
-            text: "Crypto",
-            link: "/ctf/crypto/",
-        },
-        {
-            text: "Reverse",
-            link: "/ctf/reverse/",
-        },
-        {
-            text: "Blockchain",
-            link: "/ctf/blockchain/",
-        },
-      ],
-    },
-    {
-      text: '红蓝对抗',
-      items: [
-        {
-          text: "信息收集",
-          link: "/redteam/informationcollection/",
-        },
-        {
-          text: "漏洞挖掘",
-          link: "/redteam/vulnerability/",
-        },
-        {
-          text: "代码审计",
-          link: "/redteam/codeaudit/",
-        },
-        {
-          text: "防御规避",
-          link: "/redteam/defensetoevade/",
-        },
-        {
-          text: "权限提升",
-          link: "/redteam/privilegeescalation/",
-        },
-        {
-          text: "权限维持",
-          link: "/redteam/permissionstomaintain/",
-        },
-        {
-          text: "内网移动",
-          link: "/redteam/networkofmobile/",
-        },
-        {
-          text: "蓝队防守",
-          link: "/redteam/blueteam/",
         },
       ],
     },
