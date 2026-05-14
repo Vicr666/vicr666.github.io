@@ -8,6 +8,7 @@
     "docs:build": "vuepress build docs  --max-concurrency"
   },
   "dependencies": {
+    "mime-db": "^1.54.0",
     "vuepress-theme-antdocs": "^1.4.6"
   },
   "devDependencies": {

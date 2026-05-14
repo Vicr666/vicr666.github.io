@@ -7,7 +7,7 @@ yarn-error.log*
 
 # dist 
 docs/.vuepress/dist
-
+webapp
 # Runtime data
 pids
 *.pid
