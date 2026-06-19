@@ -4,7 +4,7 @@ module.exports = [
 		title: "Linux",
 		collapsable: true,
 		children:[
-			"/wiki/system/LinuxLinux Kernel act_pedit权限提升漏洞 CVE-2026-46331",
+			"/wiki/system/Linux/Linux Kernel act_pedit权限提升漏洞 CVE-2026-46331",
 			"/wiki/system/Linux/Linux DirtyFrag权限提升漏洞 CVE-2026-43284",
 			"/wiki/system/Linux/Linux CopyFail权限提升漏洞 CVE-2026-31431",
 			"/wiki/system/Linux/Linux eBPF权限提升漏洞 CVE-2022-23222",	
